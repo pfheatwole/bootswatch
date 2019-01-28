@@ -53,10 +53,6 @@ template {
 a {
   background-color: transparent;
 }
-a:active,
-a:hover {
-  outline: 0;
-}
 abbr[title] {
   border-bottom: none;
   text-decoration: underline;
